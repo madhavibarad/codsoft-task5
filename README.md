@@ -1,12 +1,27 @@
-Contact Book
-Contact Information: Store name, phone number, email, and address for each contact.
+### 📞 Task 5: CONTACT BOOK
+A Contact Book application for managing personal contacts:
+- Stores name, phone number, email, and address.
+- Add new contacts with complete details.
+- View a list of all saved contacts.
+- Search functionality by name or phone number.
+- Update and delete existing contacts.
+- Clean and user-friendly interface for easy interaction.
 
-Add Contact: Allow users to add new contacts with their details.
+---
+## 💻 How to Run
 
-View Contact List: Display a list of all saved contacts with names and phone numbers.
-Search Contact: Implement a search function to find contacts by name or phone number.
+bash
+python file_name.py
 
-Update Contact: Enable users to update contact details.
-Delete Contact: Provide an option to delete a contact.
 
-User Interface: Design a user-friendly interface for easy interaction.
+
+##🛠 Requirements
+
+bash
+-Python 3.x
+-No external libraries required (standard library only)
+
+
+##🙌 Acknowledgments
+
+This internship project allowed me to practice and improve my Python skills by working on real-world mini applications. Thanks to the mentors and team for their guidance and support.
